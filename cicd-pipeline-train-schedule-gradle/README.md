@@ -17,5 +17,4 @@ Make sure task dependencies are set up so tasks execute in the correct order
 
 Commit and push these changes to your GitHub fork
 
-![Image of Yaktocat]
-(https://github.com/capitalallen/CI-CD-pipeline/blob/master/cicd-pipeline-train-schedule-gradle-master/diagram.png)
+
