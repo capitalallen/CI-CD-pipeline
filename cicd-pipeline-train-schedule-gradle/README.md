@@ -1,6 +1,7 @@
 # simple gradle for nod.js web app
 
-Configure git for ssh authentication with GitHub.com
+Configure git for ssh authentication with GitHub.com /n 
+
 •	ssh-keygen -t rsa -b 4096
 Initialize the project with gradle
 Create a gradle build task
