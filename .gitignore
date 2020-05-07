@@ -1,0 +1,3 @@
+./cicd-pipeline-train-schedule-gradle-master/node_modules
+./cicd-pipeline-train-schedule-gradle-master/.gradle
+./cicd-pipeline-train-schedule-gradle-master/dist
