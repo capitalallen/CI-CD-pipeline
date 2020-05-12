@@ -23,3 +23,8 @@ You can run the app with:
      sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat-stable/jenkins.repo
      sudo rpm --import https://jenkins-ci.org/redhat/jenkins-ci.org.key
      sudo yum -y install jenkins-2.190.1-1.1
+ ### Complete Jenkins setup in the browser
+     login using the temporary admin password, which you can find on the server with this command:
+     sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+     select Install suggested plugins and wait for the plugins to finish installing.
+     fill out a form to create credentials for the first admin user.
